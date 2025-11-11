@@ -50,7 +50,7 @@ services:
       COLONIES_COLONY_NAME: dev
       TZ: Europe/Stockholm
     volumes:
-      - ../:/workspaces
+      - ../:/workspaces:cached
       - configuration:/configuration
     depends_on:
       - timescaledb

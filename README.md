@@ -2,7 +2,7 @@
 
 This is a devcontainer project template designed to simplify setting up a development environment for building ColonyOS executors in Go.
 
-> **Note:** This template is currently under development. Once stable, it will be packaged and published as an official devcontainer template.
+> **Note:** This template is currently under development and probably still very much in the "works on my computer"-state. It has only been tested om MacOS, as soon as I get some time to spare I will test it on Linux and Windows as well. Once stable, it will be packaged and published as an official devcontainer template.
 
 If you’re new to devcontainers, see the official documentation: [Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers).
 

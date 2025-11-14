@@ -1,5 +1,5 @@
 {
-    "name": "Executor Project Template",
+    "name": "ColonyOS Go Executor",
     "description": "A devcontainer template for ColonyOS Executor projects.",
     "icon": "code",
     "tags": [

@@ -1,0 +1,12 @@
+{
+    "name": "Executor Project Template",
+    "description": "A devcontainer template for ColonyOS Executor projects.",
+    "icon": "code",
+    "tags": [
+        "colonyos",
+        "executor",
+        "devcontainer",
+        "template"
+    ],
+    "repository": "https://github.com/ossko/executor-project-template"
+}
